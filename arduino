@@ -1,0 +1,18 @@
+student-management/
+├── backend/
+│   ├── models/
+│   │   └── studentModel.js
+│   ├── routes/
+│   │   └── studentRoutes.js
+│   ├── app.js
+│   └── config/
+│       └── db.js
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── StudentForm.js
+│   │   └── App.js
+├── .env
+├── package.json
+└── README.md
