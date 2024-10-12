@@ -34,11 +34,12 @@ Steps to set up your project in GitHub Codespace:
 
 2. Backend Setup (Node.js and Express)
     1. In the backend folder, initialize a Node.js project:
-        npm init -y
-        npm install express mongoose dotenv
+         npm init -y
+         npm install express mongoose dotenv
+
     2. app.js (Backend entry point):
         javascript
-        
+
         const express = require('express');
         const mongoose = require('mongoose');
         const dotenv = require('dotenv');
@@ -59,7 +60,7 @@ Steps to set up your project in GitHub Codespace:
         app.listen(PORT, () => {
             console.log(`Server running on port ${PORT}`);
         });
-    
+
      3. studentModel.js (Student Schema):
           javascript
     
