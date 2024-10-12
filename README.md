@@ -1,10 +1,10 @@
 Creating a student management system in GitHub Codespace requires a full-stack web application that handles various operations like adding, updating, and removing students, viewing student data, and managing courses. I'll guide you through building this project using the following technologies:
 
 Stack:
-Frontend: HTML, CSS, JavaScript (React)
-Backend: Node.js, Express.js
-Database: MongoDB (or SQL if preferred)
-ER Diagram: For database design
+1. Frontend: HTML, CSS, JavaScript (React)
+2. Backend: Node.js, Express.js
+3. Database: MongoDB (or SQL if preferred)
+4. ER Diagram: For database design
 
 Project Structure:
 arduino:
